@@ -12,6 +12,7 @@ class Value:
         self.start_ts = start_ts
         self.count = count
 
+
 class DB:
     def __init__(self):
         self.state = {}
